@@ -105,28 +105,9 @@
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Snake
 
-<div align="center">
-  <h3>⚡ Advanced Contribution Snake</h3>
-  <!-- <p><i>Cyberpunk neon style with dynamic intensity, glowing trails & particle effects</i></p> -->
-  
-  <!-- Light Mode Snake -->
-  <div>
-    <!-- <h4>🌞 Light Mode</h4> -->
-    <img src="https://raw.githubusercontent.com/HarshNexus/HarshNexus/output/github-contribution-grid-snake.svg" alt="Snake animation light" width="100%" style="max-width: 900px; border-radius: 10px; border: 2px solid #FF006E; padding: 10px; background: white;" />
-  </div>
-  
-  <br/>
-  
-  <!-- Dark Mode Snake -->
-  <div>
-    <h4>🌙 Dark Mode</h4>
-    <img src="https://raw.githubusercontent.com/HarshNexus/HarshNexus/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark" width="100%" style="max-width: 900px; border-radius: 10px; border: 2px solid #00D9FF; padding: 10px; background: #0a0e27;" />
-  </div>
-  
-  <p><sub>Generated daily with advanced neon effects, dual snake animation, and intelligent contribution tracking</sub></p>
-</div>
+![snake](https://raw.githubusercontent.com/HarshNexus/HarshNexus/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
