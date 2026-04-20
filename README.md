@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF006E&center=true&width=600&height=100&lines=Hi%2C+I'm+Harsh+👋;Frontend+Developer+|+DSA+Enthusiast;Building+Digital+Experiences+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF006E&center=true&width=800&height=100&lines=Hi%2C+I%27m+Harsh+%F0%9F%91%8B;Frontend+Developer;DSA+Enthusiast;Building+Digital+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <!-- Profile Header -->
