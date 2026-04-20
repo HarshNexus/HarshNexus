@@ -1,9 +1,7 @@
 <!-- Animated Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF006E&center=true&width=600&height=100&lines=Hi%2C+I'm+Harsh+%F0%9F%91%8B;Frontend+Developer+%7C+DSA+Enthusiast;Building+Digital+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF006E&center=true&width=600&height=100&lines=Hi%2C+I'm+Harsh+👋;Frontend+Developer+|+DSA+Enthusiast;Building+Digital+Experiences+🚀" alt="Typing SVG" />
 </div>
-
-<br/>
 
 <!-- Profile Header -->
 <div align="center">
@@ -110,25 +108,25 @@
 ## 🐍 Contribution Activity
 
 <div align="center">
-  <h3>⚡ Advanced Contribution Snake Animation</h3>
-  <p><i>Cyberpunk neon style with dynamic intensity, glowing trails & particle effects</i></p>
+  <h3>⚡ Advanced Contribution Snake</h3>
+  <!-- <p><i>Cyberpunk neon style with dynamic intensity, glowing trails & particle effects</i></p> -->
   
   <!-- Light Mode Snake -->
   <div>
-    <h4>🌞 Light Mode</h4>
+    <!-- <h4>🌞 Light Mode</h4> -->
     <img src="https://raw.githubusercontent.com/HarshNexus/HarshNexus/output/github-contribution-grid-snake.svg" alt="Snake animation light" width="100%" style="max-width: 900px; border-radius: 10px; border: 2px solid #FF006E; padding: 10px; background: white;" />
   </div>
   
   <br/>
   
-  <!-- Dark Mode Snake -->
+  <!-- Dark Mode Snake
   <div>
     <h4>🌙 Dark Mode</h4>
     <img src="https://raw.githubusercontent.com/HarshNexus/HarshNexus/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark" width="100%" style="max-width: 900px; border-radius: 10px; border: 2px solid #00D9FF; padding: 10px; background: #0a0e27;" />
   </div>
   
   <p><sub>Generated daily with advanced neon effects, dual snake animation, and intelligent contribution tracking</sub></p>
-</div>
+</div> -->
 
 ---
 
