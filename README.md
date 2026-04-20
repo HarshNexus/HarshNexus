@@ -119,14 +119,14 @@
   
   <br/>
   
-  <!-- Dark Mode Snake
+  <!-- Dark Mode Snake -->
   <div>
     <h4>🌙 Dark Mode</h4>
     <img src="https://raw.githubusercontent.com/HarshNexus/HarshNexus/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark" width="100%" style="max-width: 900px; border-radius: 10px; border: 2px solid #00D9FF; padding: 10px; background: #0a0e27;" />
   </div>
   
   <p><sub>Generated daily with advanced neon effects, dual snake animation, and intelligent contribution tracking</sub></p>
-</div> -->
+</div>
 
 ---
 
