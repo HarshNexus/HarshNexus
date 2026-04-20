@@ -1,27 +1,65 @@
-name: Generate GitHub Contribution Snake 🐍
+name: ⚡ Generate Advanced Contribution Snake 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight UTC
+    - cron: "0 2 * * *" # Runs every day at 2:00 AM UTC
   workflow_dispatch:
+  push:
+    branches: [main, master]
+    paths:
+      - 'scripts/generate_custom_snake.py'
+      - '.github/workflows/generate-snake.yml'
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
-      - name: Generate GitHub Contribution Snake
-        uses: Platane/snk@v3
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
         with:
-          github_user_name: HarshKumar-coders
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+          fetch-depth: 0
 
-      - name: Push generated snake graph
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 💾 Cache snake artifacts
+        uses: actions/cache@v3
+        with:
+          path: dist/
+          key: snake-cache-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: snake-cache-${{ runner.os }}-
+
+      - name: 🎨 Generate custom snake animations
+        run: |
+          cd scripts
+          python3 generate_custom_snake.py
+        env:
+          GITHUB_ACTOR: ${{ github.actor }}
+          OUTPUT_DIR: ../dist
+
+      - name: 📊 Verify generated files
+        run: |
+          echo "Generated files:"
+          ls -lah dist/
+          echo "File sizes:"
+          du -sh dist/*.svg
+
+      - name: 🚀 Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          jekyll: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: ✅ Workflow Summary
+        run: |
+          echo "✨ Snake animation generated successfully!"
+          echo "📁 Artifacts deployed to output branch"
+          echo "🔄 Next run: $(date -d '+24 hours' '+%Y-%m-%d %H:%M UTC')"
