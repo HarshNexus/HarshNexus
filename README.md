@@ -8,9 +8,9 @@
 </p>
 
 <div align="center">
-  <a href="https://portfolio-sigma-eosin-73.vercel.app" target="_blank" style="text-decoration: none;"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0A66C2?style=flat-square&logo=link&logoColor=white" style="height: 28px;" /></a>&nbsp;
-  <a href="https://drive.google.com/file/d/1aLGU246smu4QWr4C8RWfw_866VWY28t0/view?usp=sharing" target="_blank" style="text-decoration: none;"><img alt="Resume" src="https://img.shields.io/badge/-Resume-1F8B4C?style=flat-square&logo=googledocs&logoColor=white" style="height: 28px;" /></a>&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&to=HarshNexus@gmail.com" target="_blank" style="text-decoration: none;"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" style="height: 28px;" /></a>
+  <a href="https://harsh-kumar-portfolio-eight.vercel.app/" target="_blank" style="text-decoration: none;"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0A66C2?style=flat-square&logo=link&logoColor=white" style="height: 28px;" /></a>&nbsp;
+  <a href="https://drive.google.com/file/d/1-iFJE2TBQlPwO-PMdXHtdPUrvpl71XTY/view?usp=sharing" target="_blank" style="text-decoration: none;"><img alt="Resume" src="https://img.shields.io/badge/-Resume-1F8B4C?style=flat-square&logo=googledocs&logoColor=white" style="height: 28px;" /></a>&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&to=harshkumar0553@gmail.com" target="_blank" style="text-decoration: none;"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" style="height: 28px;" /></a>
 </div>
 
 <h2 align="center">About Me</h2>
@@ -26,9 +26,9 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://linkedin.com/in/pushkar-kumar-saini153600" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="34" /></a></td>
-      <td><a href="https://twitter.com/pushkar_153600" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="34" /></a></td>
-      <td><a href="https://www.leetcode.com/HarshNexus" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="34" /></a></td>
+      <td><a href="https://www.linkedin.com/in/harshnexus/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="34" /></a></td>
+      <!-- <td><a href="https://twitter.com/pushkar_153600" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="34" /></a></td> -->
+      <td><a href="https://codolio.com/profile/Harsh_Nexus" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="34" /></a></td>
     </tr>
   </table>
 </div>
