@@ -87,7 +87,7 @@
 ## 📊 Statistics & Achievements
 
 <div align="center">
-
+ 
 ### GitHub Analytics
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=HarshNexus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
@@ -107,7 +107,11 @@
 
 ## 🐍 Contribution Snake
 
-![snake](https://raw.githubusercontent.com/HarshNexus/HarshNexus/output/github-contribution-grid-snake-dark.svg)
+<h2 align="center">Contribution Animation</h2>
+
+<p align="center">
+  <img src="https://github.com/HarshNexus/HarshNexus/blob/output/github-snake-dark.svg" alt="Contribution snake animation" />
+</p>
 
 ---
 
