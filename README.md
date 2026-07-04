@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color: #0084ff; font-size: 3em; font-weight: 900; letter-spacing: 2px; text-shadow: 0 4px 8px rgba(0, 132, 255, 0.3);">Pushkar Kumar Saini</span>
+  <span style="color: #0084ff; font-size: 3em; font-weight: 900; letter-spacing: 2px; text-shadow: 0 4px 8px rgba(0, 132, 255, 0.3);">Harsh Kumar</span>
 </h1>
 <h3 align="center">Aspiring Software Engineer | Full Stack Developer  </h3>
 
